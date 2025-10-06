@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../cpp-pragna/ch-13 DMA/Vectors"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../cpp-pragna/ch-13 DMA/Template"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
